@@ -1,0 +1,17 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "Penuel nwaneri",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.25.3",
+    "graphql": "^14.6.0"
+  }
+}
